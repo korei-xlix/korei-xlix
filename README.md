@@ -3,7 +3,7 @@
 当ページのご利用については以下の利用規約に準拠ください。  
 　Please comply with the following terms of use regarding the use of this page.  
   
-[Twitter](https://twitter.com/korei_dev)  
+[Twitter @korei_dev](https://twitter.com/korei_dev)  
 [Home Page](https://koreixlix.wixsite.com/profile)  
   
   
@@ -14,9 +14,14 @@
 ## 利用規約::Terms of service <a name="aRules"></a>
 
 * 各リポジトリを利用される場合（Star、Watch、Fork）は、必ずTwitterアカウントをフォローしてください。  
-  フォローされない場合はブロックします。  
-  　When using each repository (Star, Watch, Fork), be sure to follow our Twitter account. Block if not followed.  
-  [Twitter](https://twitter.com/korei_dev)  
+  その際、githubアカウントとTwitterアカウントの関連が分かるようにしてください。  
+  Twitterをフォローされない場合、関連が不明な場合はブロックします。  
+  　When using each repository (Star, Watch, Fork), be sure to follow our Twitter account.
+  　At that time, please make sure that the relationship between the github account
+  　and the Twitter account is known.
+  　If you don't follow me on Twitter, I will block if you don't know the relationship.  　
+
+　≪[Twitter @korei_dev](https://twitter.com/korei_dev)≫  
 
 * 各リポジトリのご利用、著作権、免責事項については、各リポジトリのreadmeの利用規約に従ってください。  
   　For usage, copyright and disclaimer of each repository, please follow the terms of use in the readme of each repository.  
