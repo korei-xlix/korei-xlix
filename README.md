@@ -16,12 +16,10 @@
 * 各リポジトリを利用される場合（Star、Watch、Fork）は、必ずTwitterアカウントをフォローしてください。  
   その際、githubアカウントとTwitterアカウントの関連が分かるようにしてください。  
   Twitterをフォローされない場合、関連が不明な場合はブロックします。  
-  　When using each repository (Star, Watch, Fork), be sure to follow our Twitter account.
-  　At that time, please make sure that the relationship between the github account
-  　and the Twitter account is known.
-  　If you don't follow me on Twitter, I will block if you don't know the relationship.  　
-
-　≪[Twitter @korei_dev](https://twitter.com/korei_dev)≫  
+  　When using each repository (Star, Watch, Fork), be sure to follow our Twitter account.  
+  　At that time, please make sure that the relationship  
+  　between the github account and the Twitter account is known. If you don't follow me on Twitter,  
+  　I will block if you don't know the relationship.  　
 
 * 各リポジトリのご利用、著作権、免責事項については、各リポジトリのreadmeの利用規約に従ってください。  
   　For usage, copyright and disclaimer of each repository, please follow the terms of use in the readme of each repository.  
