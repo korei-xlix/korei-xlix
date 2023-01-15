@@ -1,11 +1,11 @@
 # Welcome to Korei's github !
 
-
 当ページのご利用については以下の利用規約に準拠ください。  
 　Please comply with the following terms of use regarding the use of this page.  
   
 [Twitter](https://twitter.com/korei_dev)  
 [Home Page](https://koreixlix.wixsite.com/profile)  
+  
   
   
 
@@ -27,7 +27,8 @@
 
 * ご意見、ご要望については、開発者ホームページを参照ください。  
   誠意あるメッセージ、参考になるご要望については、大変励みになります。  
-  　For comments and requests, please refer to the developer homepage. Sincere messages and helpful requests are greatly encouraged.  
+  　For comments and requests, please refer to the developer homepage.  
+  　Sincere messages and helpful requests are greatly encouraged.  
   
   
 
