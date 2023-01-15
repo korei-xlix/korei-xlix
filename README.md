@@ -23,7 +23,7 @@
 
 * 各リポジトリのご利用、著作権、免責事項については、各リポジトリのreadmeの利用規約に従ってください。  
   　　For usage, copyright and disclaimer of each repository,  
-    　please follow the terms of use in the readme of each repository.  
+  　　please follow the terms of use in the readme of each repository.  
 
 * 当ソースの仕様、不具合についての質問は受け付けません。  
   自己解析、自己対応でお願いします。  
