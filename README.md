@@ -15,11 +15,12 @@
 
 * 各リポジトリを利用される場合（Star、Watch、Fork）は、必ずTwitterアカウントをフォローしてください。  
   その際、githubアカウントとTwitterアカウントの関連が分かるようにしてください。  
-  Twitterをフォローされない場合、関連が不明な場合はブロックします。  
+  Twitterをフォローされない場合、関連が不明な場合はブロックの上、スパムリストで晒します。  
   　　When using each repository (Star, Watch, Fork), be sure to follow our Twitter account.  
   　　At that time, please make sure that the relationship  
-  　　between the github account and the Twitter account is known. If you don't follow me on Twitter,  
-  　　I will block if you don't know the relationship.  　
+  　　between the github account and the Twitter account is known. If you don't follow me on Twitter  
+  　　or if you don't know the relationship, I will block it and expose it on the spam list.   
+  [SpamList](https://github.com/korei-xlix/web_ope/blob/main/github/github_spammer.md)  
 
 * 各リポジトリのご利用、著作権、免責事項については、各リポジトリのreadmeの利用規約に従ってください。  
   　　For usage, copyright and disclaimer of each repository,  
