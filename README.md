@@ -38,10 +38,12 @@
 
 
 ***
-::Project= github profile  
+[[トップへ戻る]](/readme.md)  
+  
 ::Admin= Korei (@korei-xlix)  
 ::github= https://github.com/korei-xlix/  
-::Twitter= https://twitter.com/korei_dev  
+::Homepage= https://website.koreis-labo.com/  
+::Twitter= https://twitter.com/korei_xlix  
 
 
 
