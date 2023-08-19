@@ -27,10 +27,10 @@
   
   　　[[警告リスト（Warn list）]](https://github.com/korei-xlix/warnlists/blob/main/list_github.md)
 
-* Twitterアカウントをフォローすることもできます。  
-  　　You can also follow the twitter account.  
+* X アカウントをフォローすることもできます。  
+  　　You can also follow the X account.  
   
-  　　[[Twitter]](https://twitter.com/korei_dev)  
+  　　[[X]](https://twitter.com/korei_dev)  
   
 
 
@@ -43,7 +43,7 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= https://github.com/korei-xlix/  
 ::Homepage= https://website.koreis-labo.com/  
-::Twitter= https://twitter.com/korei_xlix  
+::X= https://twitter.com/korei_xlix  
 
 
 
