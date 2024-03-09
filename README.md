@@ -1,4 +1,4 @@
-# Welcome to Korei's github !
+# Welcome to Korei's github
 
 当ページのご利用については以下の利用規約に準拠ください。  
 　Please comply with the following terms of use regarding the use of this page.  
@@ -41,9 +41,10 @@
 [[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
-::github= https://github.com/korei-xlix/  
-::Homepage= https://website.koreis-labo.com/  
-::X= https://twitter.com/korei_xlix  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+
 
 
 
