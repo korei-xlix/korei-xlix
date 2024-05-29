@@ -30,7 +30,7 @@
 * X アカウントをフォローすることもできます。  
   　　You can also follow the X account.  
   
-  　　[[X]](https://twitter.com/korei_dev)  
+  　　[[X]](https://twitter.com/korei_xlix)  
   
 
 
