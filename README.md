@@ -1,49 +1,32 @@
 # Welcome to Korei's github
 
-当ページのご利用については以下の利用規約に準拠ください。  
-　Please comply with the following terms of use regarding the use of this page.  
+## 強く要請します / We strongly request this
+
+各リポジトリを利用される場合（Star、Watch、Fork）、issueに登録してください。  
+これはリポジトリの利用状況を把握したり、悪用されないための **強制措置** です。  
+ラベルは「Registed」にて使用用途などを記載してください。  
+　　When using each repository (Star, Watch, Fork), please do one of the following.  
+　　This is a **enforcement measure** to understand the repository's usage  
+　　and to prevent it from being abused.  
+　　Please write the purpose of use in the "Registed" label.  
+　　**[[ユーザ登録 (User Regist)](https://github.com/korei-xlix/korei-xlix/issues)]**  
+  
+
+issue登録しないで各リポジトリを利用された場合、ブロックします。  
+　　If you use each repository without registering an issue, you will be blocked.  
   
 
 
 
-## 利用規約::Terms of service <a name="aRules"></a>
-
-* 各リポジトリを利用される場合（Star、Watch、Fork）は、issueに登録をしてください。  
-  ラベルは「Registed」にて使用用途などを記載してください。  
-  　　If you use each repository (Star, Watch, Fork),  
-  　　please register as an issue.  
-  　　Please write the purpose of use on the label in "Registered".  
-  
-  　　[[ユーザ登録（User Regist）]](https://github.com/korei-xlix/korei-xlix/issues)  
-  
-
-* issue登録しないで各リポジトリを利用された場合、ブロックの上、警告リストで晒します。  
-  　　If you use each repository without registering an issue,  
-  　　it will be blocked and exposed on the warning list.  
-
-* 違反者はブロックの上、管理者の警告リストで晒します。悪しからず。  
-  　　Violators will be blocked and exposed on the administrator's warning list.  
-  　　Not bad.  
-  
-  　　[[警告リスト（Warn list）]](https://github.com/korei-xlix/warnlists/blob/main/list_github.md)
-
-* X アカウントをフォローすることもできます。  
-  　　You can also follow the X account.  
-  
-  　　[[X]](https://twitter.com/korei_xlix)  
-  
-
-
-
-
-
+***
 ***
 [[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://x.com/korei_xlix](https://x.com/korei_xlix)  
+***
 
 
 
